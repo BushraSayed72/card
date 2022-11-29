@@ -117,7 +117,7 @@ p {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
  }
-
+ 
  @media (max-width:768px){
   .main-div{
     margin: 1rem 2rem 0 1rem;
@@ -127,6 +127,7 @@ p {
   
   }
   .container{
+    
     display:flex ;
     flex-direction:column;
     justify-content: center;
@@ -140,7 +141,7 @@ p {
   }
   .right-side{
     padding-top: 5px;
-    padding-left: 5px;
+    padding-left: 20px;
     width: 100vw;
     /* padding-left: 5rem; */
   }

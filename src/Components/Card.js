@@ -25,7 +25,9 @@ import { TiShoppingCart } from 'react-icons/ti';
      
     </div>
       </div>
+      
     </div>
+   
   )
 }
 
